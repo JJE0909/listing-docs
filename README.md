@@ -1,13 +1,12 @@
 # Listing Bot Docs
 
-Features
-# Listing Bot V4
 
 🌴 **Listing Commands**
 - `/list skyblock`
-- `/list bedwars`
 - `/list profile`
-- `/list macro-ready`
+- `/list bedwars`
+- `/list farming`
+- `/list mining`
 
 📧 **Ticket Commands**
 - `/ticket panel coins`
@@ -91,7 +90,8 @@ Features
 - `Blacklisting`
 
 🤑 **Pricing**
-- `30$ Lifetime`
-- `7.5$ Monthly`
-- `3.5$ Weekly`
-- `0.95$ Daily`
+- `60$ Lifetime + monthly hosting fee $3`
+**payment plans**
+- `monthly payments: $25 for 3 months`
+- `monthly bot: $12/month`
+- 24hrs free trial
