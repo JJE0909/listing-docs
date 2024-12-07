@@ -93,6 +93,5 @@
 
 🤑 **Pricing**
 - `60$ Lifetime + monthly hosting fee $3`
-- `monthly payments: $25 for 3 months`
 - `monthly bot: $12/month`
 - 24hrs free trial
