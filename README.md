@@ -79,7 +79,6 @@
 
 😎 **Cool Functions**
 - `account autosell`
-- `auto middleman`
 - `Breakdown Stats`
 - `Value Estimator`
 - `Advanced Database`
